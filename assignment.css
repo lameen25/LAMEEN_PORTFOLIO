@@ -211,6 +211,9 @@ cursor: pointer;
             
 
         }
+        .about-pic{
+            background: url(media/)
+        }
         mat{
             border-radius: 2rem;
         }
