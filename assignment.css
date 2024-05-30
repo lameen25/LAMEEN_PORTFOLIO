@@ -330,7 +330,7 @@ cursor: pointer;
        background-image: linear-gradient(to top, grey,black);
        }
        .key{
-        background: url(Screenshot\ 2024-05-17\ 143106.png);
+        background: url(media/Screenshot\ 2024-05-17\ 143106.png);
       height: 170px;
       border-radius: 15px;
       margin-top: 5px;
@@ -357,7 +357,7 @@ cursor: pointer;
        }
        
        .keys{
-      background: url(c0fd4bda88c23eb889d8b8dc76f76de6.jpg);
+      background: url(media/c0fd4bda88c23eb889d8b8dc76f76de6.jpg);
       height: 170px;
       border-radius: 15px;
       margin-top: 5px;
